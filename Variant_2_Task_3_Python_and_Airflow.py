@@ -26,7 +26,7 @@ default_args = {
 
 CHAT_ID = 344844265
 try:
-    BOT_TOKEN = '5789264690:AAE8L0uRRF1iiGCh-XxSKBeiltKTnvXI9AE'
+    BOT_TOKEN = ''
 except:
     BOT_TOKEN = ''   
     
